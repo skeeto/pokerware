@@ -1,0 +1,9 @@
+.nr HM 0i
+.nr PD 0.05v
+.nr P0 0.5i
+.nr LL 6.5i
+.ds CF This is a free and unencumbered document released into the public domain.
+.TL
+Pokerware Passphrase Word List
+.nr HM 1i
+.MC 16
