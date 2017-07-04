@@ -6,6 +6,17 @@ of dice. In some situations a deck may be more readily available than
 dice. Pokerware draws from 5,304 words, in contrast to Diceware's 7,776
 words.
 
+## Downloads
+
+* Formal word list:
+    * [ASCII TXT][fat]
+    * [ASCII PDF][fap]
+    * [Unicode PDF][fup]
+* Slang word list:
+    * [ASCII TXT][sat]
+    * [ASCII PDF][sap]
+    * [Unicode PDF][sup]
+
 ## Passphrase generation
 
 1. Thoroughly shuffle the deck. [Six or seven riffle shuffles][shuffle]
@@ -43,3 +54,9 @@ Which will produce `pokerware.pdf` with the selected configuration.
 
 [dw]: http://www.diceware.com/
 [shuffle]: https://possiblywrong.wordpress.com/2011/03/27/card-shuffling-youre-not-done-yet/
+[fat]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-formal.txt
+[fap]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-formal-ascii.pdf
+[fup]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-formal-unicode.pdf
+[sat]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-slang.txt
+[sap]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-slang-ascii.pdf
+[sup]: https://github.com/skeeto/pokerware/releases/download/1.0/pokerware-slang-unicode.pdf
